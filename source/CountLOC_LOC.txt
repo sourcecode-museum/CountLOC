@@ -1,0 +1,157 @@
+Count Lines of Code v2.0.191                             31 Aug 2015  04:52 AM
+
+                                 CountLOC.vbp
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Kens Software\CountLOC\CountLOC.vbp
+
+Module Name:  C:\Kens Software\CountLOC\clsKeyEdit.cls
+
+                   2  Constant variables
+                  11  Sub routines
+                   1  Functions
+                 178  Miscellaneous lines of code
+                  15  Auto generated lines (** Not included in totals **)
+                  37  Blank lines (** Not included in totals **)
+                 355  Comment lines (** Not included in totals **)
+          ----------
+                 192  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\clsManifest.cls
+
+                  18  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Property Let routines
+                   1  Sub routines
+                   2  Functions
+                 167  Miscellaneous lines of code
+                  13  Auto generated lines (** Not included in totals **)
+                  19  Blank lines (** Not included in totals **)
+                 247  Comment lines (** Not included in totals **)
+          ----------
+                 191  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\clsOperSystem.cls
+
+                 102  Constant variables
+                   1  Type Structures
+                   3  API Declare statements
+                 161  Property Get routines
+                  10  Sub routines
+               1,243  Miscellaneous lines of code
+                  15  Auto generated lines (** Not included in totals **)
+                 224  Blank lines (** Not included in totals **)
+                 336  Comment lines (** Not included in totals **)
+          ----------
+               1,359  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\frmMain.frm
+
+                  13  Sub routines
+                   1  Functions
+                 325  Miscellaneous lines of code
+                 439  Auto generated lines (** Not included in totals **)
+                  35  Blank lines (** Not included in totals **)
+                 104  Comment lines (** Not included in totals **)
+          ----------
+                 339  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\modDialogBox.bas
+
+                  61  Constant variables
+                   7  Type Structures
+                  24  API Declare statements
+                   6  Sub routines
+                  11  Functions
+                 637  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                 105  Blank lines (** Not included in totals **)
+                 756  Comment lines (** Not included in totals **)
+          ----------
+                 746  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\modFileFind.bas
+
+                   2  Constant variables
+                   3  Type Structures
+                   6  API Declare statements
+                   1  Sub routines
+                   9  Functions
+                 156  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  32  Blank lines (** Not included in totals **)
+                 236  Comment lines (** Not included in totals **)
+          ----------
+                 177  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\modLOC.bas
+
+                  20  Constant variables
+                   1  Type Structures
+                   3  API Declare statements
+                  16  Sub routines
+                  20  Functions
+               1,845  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                 121  Blank lines (** Not included in totals **)
+               1,016  Comment lines (** Not included in totals **)
+          ----------
+               1,905  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\modMain.bas
+
+                  18  Constant variables
+                  15  API Declare statements
+                   9  Sub routines
+                  10  Functions
+                 319  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                 156  Blank lines (** Not included in totals **)
+                 530  Comment lines (** Not included in totals **)
+          ----------
+                 371  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  29  Blank lines (** Not included in totals **)
+                 269  Comment lines (** Not included in totals **)
+          ----------
+                 152  Module lines of code
+
+Module Name:  C:\Kens Software\CountLOC\modTrimStr.bas
+
+                   1  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Functions
+                  53  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  40  Blank lines (** Not included in totals **)
+                 122  Comment lines (** Not included in totals **)
+          ----------
+                  59  Module lines of code
+
+          ==========
+               5,491  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+

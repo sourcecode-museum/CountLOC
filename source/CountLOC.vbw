@@ -1,0 +1,10 @@
+modLOC = 130, 130, 880, 580, 
+modFileFind = 130, 130, 880, 580, CZ
+modMain = 130, 130, 880, 580, 
+modMessages = 130, 130, 880, 580, 
+cKeyEdit = 130, 130, 880, 580, CZ
+frmMain = 130, 130, 880, 580, Z, 22, 22, 895, 464, C
+modTrimStr = 130, 130, 880, 580, 
+cOperSystem = 130, 130, 880, 580, CZ
+cManifest = 130, 130, 880, 580, CZ
+modDialogBox = 130, 130, 880, 580, CZ
