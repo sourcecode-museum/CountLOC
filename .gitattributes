@@ -1,6 +1,5 @@
 # Set the default behavior, in case people don't have core.autocrlf set.
 *.VisualBasic6 linguist-detectable=true
-
 * text eol=auto
 *.bas text eol=crlf
 *.frm text eol=crlf
